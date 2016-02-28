@@ -2,7 +2,7 @@
 
 ## Assignment: Getting and Cleaning Data Course Project
 
-## The purpose of this code is to collect, work with, and clean a data set.
+	The purpose of this code is to collect, work with, and clean a data set.
 
 ## Required Functions
 
@@ -11,10 +11,15 @@
 ## Program Functionality
 
 This program will do the following:
+
 	- Merge the training and the test sets to create one data set.
+	
 	- Extract only the measurements on the mean and standard deviation for each measurement. 
+	
 	- Have descriptive activity names to name the activities in the data set
+	
 	- Appropriately labelled data set with descriptive variable names. 
+	
 	- Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 	
 ## How To Run
